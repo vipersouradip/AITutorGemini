@@ -1,0 +1,6 @@
+{
+  "name": "AI Whiteboard Tutor",
+  "description": "Interactive physics and math collaborative whiteboard for teaching with reasoning snapshots, semantic objects, and structured diagramming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
